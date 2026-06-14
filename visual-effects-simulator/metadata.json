@@ -1,0 +1,6 @@
+{
+  "name": "Visual Effects Simulator",
+  "description": "An elegant, formal dashboard to trigger and preview falling snowflakes and floating balloons with full visual customization and timing control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
