@@ -1,6 +1,6 @@
 # 5-Day-AI-Agents-Intensive-Vibe-Coding-Course-With-Google
 
-🎒 Day #1 Assignment
+<h1>🎒 Day #1 Assignment</h1>
 Complete Unit 1 – "Introduction to Agents & Vibe Coding"
 
 Listen to the summary podcast episode for this unit.
